@@ -1,0 +1,45 @@
+magic
+tech sky130A
+timestamp 1695345466
+<< metal1 >>
+rect -1456 21708 -956 22208
+rect 5345 21832 5845 22332
+rect 11837 21708 12337 22208
+rect -4671 21090 -4171 21590
+rect 13135 20904 13635 21404
+rect -4671 14969 -4171 15469
+rect 13135 13485 13635 13985
+rect -4795 10270 -4295 10770
+rect -4733 5571 -4233 6071
+rect 13197 4458 13697 4958
+rect -4115 3902 -3615 4402
+rect 3614 3902 4114 4402
+rect 11095 3840 11595 4340
+<< labels >>
+flabel metal1 -4671 21090 -4171 21590 0 FreeSans 4000 0 0 0 ss
+port 0 nsew
+flabel metal1 -4671 14969 -4171 15469 0 FreeSans 4000 0 0 0 in
+port 4 nsew
+flabel metal1 13135 20904 13635 21404 0 FreeSans 4000 0 0 0 vd2
+port 10 nsew
+flabel metal1 13197 4458 13697 4958 0 FreeSans 4000 0 0 0 gnd2
+port 13 nsew
+flabel metal1 13135 13485 13635 13985 0 FreeSans 4000 0 0 0 vs
+port 11 nsew
+flabel metal1 -4115 3902 -3615 4402 0 FreeSans 4000 0 0 0 gnd1
+port 9 nsew
+flabel metal1 3614 3902 4114 4402 0 FreeSans 4000 0 0 0 vd1
+port 8 nsew
+flabel metal1 11095 3840 11595 4340 0 FreeSans 4000 0 0 0 out
+port 7 nsew
+flabel metal1 -4733 5571 -4233 6071 0 FreeSans 4000 0 0 0 ib
+port 6 nsew
+flabel metal1 -4795 10270 -4295 10770 0 FreeSans 4000 0 0 0 in2
+port 5 nsew
+flabel metal1 11837 21708 12337 22208 0 FreeSans 4000 0 0 0 reset
+port 3 nsew
+flabel metal1 5345 21832 5845 22332 0 FreeSans 4000 0 0 0 sdi
+port 2 nsew
+flabel metal1 -1456 21708 -956 22208 0 FreeSans 4000 0 0 0 sclk
+port 1 nsew
+<< end >>
